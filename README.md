@@ -16,7 +16,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  responsive_mate: ^0.0.1
+  responsive_mate: ^1.0.0
 ```
 
 Then run:
