@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:responsive_mate/responsive_mate.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:responsive_package/responsive.dart';
 
 void main() {
   testWidgets('Responsive layout renders correct widget based on screen size',

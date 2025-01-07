@@ -30,7 +30,7 @@ flutter pub get
 Wrap your app's layout with the `Responsive` widget to adjust the UI based on screen size:
 
 ```dart
-import 'package:responsive_package/responsive.dart';
+import 'package:responsive_package/responsive_mate.dart';
 
 class MyResponsiveApp extends StatelessWidget {
   @override
@@ -78,7 +78,7 @@ Here is a complete example of how to use the `Responsive` package:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:responsive_package/responsive.dart';
+import 'package:responsive_package/responsive_mate.dart';
 
 void main() {
   runApp(MyApp());

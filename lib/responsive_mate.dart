@@ -1,4 +1,4 @@
-library responsive;
+library responsive_mate;
 
 import 'package:flutter/material.dart';
 
