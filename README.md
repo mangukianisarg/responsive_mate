@@ -1,5 +1,5 @@
 
-# Responsive Package
+# Responsive Mate
 
 A Flutter package to easily manage responsive layouts across mobile, tablet, and desktop devices. With this package, you can create adaptive UI components that adjust based on screen size, making your app responsive across different devices.
 
@@ -16,7 +16,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  responsive_mate: ^0.0.1
+  responsive_mate: ^1.0.0
 ```
 
 Then run:
