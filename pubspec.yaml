@@ -1,8 +1,8 @@
 name: responsive_mate
-description: "Add Responsiveness to Your Flutter Application"
-version: 1.0.0
+description: "ResponsiveMate simplifies building adaptive layouts in Flutter apps. Effortlessly switch between mobile, tablet, and desktop views with customizable breakpoints and dynamic widget rendering. With utilities like isMobile, isTablet, and isDesktop, create polished, device-friendly interfaces that work seamlessly across platforms. Perfect for apps requiring flexible and optimized responsiveness."
+version: 1.0.2
 homepage: https://www.responsive.run.place
-repository: https://github.com/mangukianisarg/responsive
+repository: https://github.com/mangukianisarg/responsive_mate
 
 environment:
   sdk: ^3.5.1
